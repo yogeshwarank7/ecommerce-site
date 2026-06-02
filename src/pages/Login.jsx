@@ -105,7 +105,7 @@ export default function Login() {
       u => u.username.toLowerCase() === username.toLowerCase() && u.password === password
     )
 
-    if ((username.toLowerCase() === 'yogesh' && password === 'yogesh123') || MatchedUser) {
+    if (MatchedUser) {
       const displayName = MatchedUser ? MatchedUser.username : 'Yogesh Kumar'
       dispatch(login({ username: displayName }))
       navigate('/')
