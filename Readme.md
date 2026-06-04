@@ -88,14 +88,17 @@ npm install
 # Start the development server
 npm run dev
 ```
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-Open [https://yoki-ecommerce-site.netlify.app/](https://yoki-ecommerce-site.netlify.app/) in your browser.
 
 ### Build for Production
 
 ```bash
 npm run build
 ```
+## 🌐 Live Demo
+
+🔗 [View Site](https://yoki-ecommerce-site.netlify.app/)
 
 ---
 
@@ -103,7 +106,7 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Yogeshwaran K** — MERN Stack Developer  
+**Yogeshwaran K** — Frontend Developer  
 📍 Coimbatore, Tamil Nadu  
 🎓 B.Sc. IT | KGiSL MERN Stack Certified
 
